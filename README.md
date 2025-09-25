@@ -1,6 +1,6 @@
 # NMCNPM
 
-\#Thông tin sinh viên
+\#Giới thiệu
 
 -Họ và tên: Nguyễn Lê Tường Vi
 
