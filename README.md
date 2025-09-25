@@ -1,1 +1,12 @@
 # NMCNPM
+
+\#Thông tin sinh viên
+
+-Họ và tên: Nguyễn Lê Tường Vi
+
+-MSSV: N23DCPT114
+
+-Lớp: D23CQPTTK01-N
+
+-Mục tiêu học tập: nắm vững Git \& UML cơ bản
+
