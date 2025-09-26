@@ -1,0 +1,40 @@
+@startuml
+package "UI" {
+  class ATMUI {
+    + displayScreen()
+    + getInput()
+  }
+}
+
+package "Controller" {
+  class ATMController {
+    + handleTransaction()
+    + validateCard()
+  }
+}
+
+package "BankService" {
+  class BankAPI {
+    + authenticate()
+    + debitAccount()
+    + creditAccount()
+  }
+}
+
+package "Hardware" {
+  class CardReader {
+    + readCard()
+    + ejectCard()
+  }
+  class CashDispenser {
+    + dispenseCash(amount:double)
+  }
+  class DepositSlot {
+    + acceptCash()
+  }
+}
+
+UI --> Controller
+Controller --> BankService
+Controller --> Hardware
+@enduml
