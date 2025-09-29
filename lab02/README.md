@@ -8,9 +8,7 @@
 **Mini Project:** Hệ thống quản lý đặt phòng khách sạn
 
 ## Sơ đồ Use Case
-- **Use Case Diagram**: ![Use Case](diagrams/LAB2_Use case UML.jpg )
-- **Sequence Diagram**: ![Sequence A](diagrams/LAB2_Sequence UML(a).jpg) ![Sequence B](diagrams/LAB2_Sequence UML(b).jpg)
-- **ERD (Entity Relationship Diagram)**: ![ERD](diagrams/ERD.ipg)
+- **Use Case Diagram**: ![alt text](<diagrams/LAB2_Use case UML.png>)
 
 ## Các Use Case Description
 - [UC Đặt phòng](usecases/UC_DatPhong.md)
