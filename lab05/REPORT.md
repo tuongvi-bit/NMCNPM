@@ -10,9 +10,9 @@ Hoàn thiện quy trình phần mềm từ thiết kế đến triển khai.
 4. Tích hợp tất cả artifacts vào repository.
 
 ## 3. Artifacts
-- Use Case Diagram: `artifacts/use_case.png`
-- Sequence Diagram: `artifacts/sequence_diagram.png`
-- Form Login code: `lab04/`
+- Use Case Diagram: ![alt text](artifacts/usecases.png)
+- Sequence Diagram: ![alt text](artifacts/Sequence.png)
+- Form Login code: [text](lab04/index.html)
 
 ## 4. Hướng dẫn chạy
 1. Mở `lab04/index.html` trên trình duyệt.
