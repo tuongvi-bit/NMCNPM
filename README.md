@@ -1,12 +1,29 @@
-# NMCNPM
+# 👋 Xin chào! Mình là NGUYỄN LÊ TƯỜNG VI 
 
-\#Giới thiệu
+## 🧑‍🎓 Giới thiệu
+- 🎓 Sinh viên năm 2 tại **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**  
+- 📚 Ngành học: **Công nghệ Đa phương tiện (Multimedia Technology)**  
+- 🌱 Hiện đang học và tìm hiểu về:
+  - Lập trình Web (HTML, CSS, JavaScript)  
+  - Git/GitHub  
+  - Thiết kế và mô phỏng 3D  
+  - Multimedia & UX/UI Design  
 
--Họ và tên: Nguyễn Lê Tường Vi
+## 💻 Kỹ năng
+- **Ngôn ngữ lập trình**: C, C++, Java, JavaScript  
+- **Công cụ & phần mềm**: Figma, Photoshop, Blender, Git  
+- **Khả năng khác**: Làm việc nhóm, quản lý dự án với Agile/Scrum, sáng tạo nội dung số  
 
--MSSV: N23DCPT114
+## 🎯 Mục tiêu
+- Trở thành một **Fullstack Developer** kết hợp với kỹ năng **Design Multimedia**  
+- Thực hiện các dự án cá nhân và nhóm để phát triển portfolio  
 
--Lớp: D23CQPTTK01-N
+## 📫 Liên hệ với mình
+- 📧 Email: [n23dcpt114@student.ptithcm.edu.vn]  
+- 🌐 GitHub: [github.com/tuongvi-bit](https://github.com/tuongvi-bit)  
 
--Mục tiêu học tập: nắm vững Git \& UML cơ bản
+---
+
+⭐ Nếu bạn thấy profile của mình thú vị, hãy **follow** mình để cùng học hỏi nhé!
+
 
